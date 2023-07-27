@@ -10,9 +10,9 @@
     <h1 class="text-center mb-3">👋 Hi, I’m Raj Ghodasara</h1>
     <h4 class="ms-3">👀 I’m Passionate Full Stack Developer</h4>
     <h4 class="ms-3">📫 How to reach me: rajpatelrajpatel0410@gmail.com </h4>
-    <h2 class="mb-5 ms-3">🌐 Connect with me: <a href="https://www.linkedin.com/in/raj-ghodasara-610704209/"><img
-                src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
-                alt=""></a> </h2>
+    <h2 class="mb-5 ms-3">🌐 Connect with me: <a href="https://www.linkedin.com/in/raj-ghodasara-610704209/"></a> </h2>
+    <img    src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
+                alt="">
     <h2 class="ms-3 mb-3">💻 Languages and Tools:</h2>
     <span>
         <img src="https://camo.githubusercontent.com/90b284b4f542180aeb3bfa244cf0a86d451f9ebc95f9cffe71dc8f73da41b7a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"
