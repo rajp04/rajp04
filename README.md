@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Raj Ghodasara
 - 👀 I’m Passionate in Full Stack Developer
-- 📫 How to reach me rajpatelrajpatel040@gmail.com
+- 📫 How to reach me rajpatelrajpatel0410@gmail.com
