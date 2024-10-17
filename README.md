@@ -9,7 +9,7 @@
 <body>
     <h1 class="text-center mb-3">👋 Hi, I’m Raj Ghodasara</h1>
     <h4 class="ms-3">👀 I’m Passionate in Mern Stack Developer</h4>
-    <h4 class="ms-3">📫 How to reach me: <a href = "mailto: rajpatelrajpatel0410@gmail.com">rajpatelrajpatel0410@gmail.coml</a></h4> 
+    <h4 class="ms-3">📫 How to reach me: <a href = "mailto: rajpatel46118@gmail.com">rajpatelrajpatel0410@gmail.coml</a></h4> 
     <h2 class="mb-5 ms-3">🌐 Connect with me: <a href="https://www.linkedin.com/in/ghodasara-raj/">LinkedIn</a> </h2>
     <h2 class="ms-3 mb-3">💻 Languages and Tools:</h2>
     <span>
